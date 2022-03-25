@@ -20,7 +20,7 @@ const Header = () => {
                     </>
                    ) : (
                     <>
-                    <Button sx={{marginLeft:'auto'}} variant="outlined" color="secondary"> 
+                    <Button sx={{marginLeft:'auto'}}  color="secondary"> 
                      Login{" "}
                     </Button>
                     <Button sx={{marginLeft: '10px'}} variant="contained" color="secondary">
